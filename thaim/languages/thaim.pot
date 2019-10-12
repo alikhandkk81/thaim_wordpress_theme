@@ -1,0 +1,466 @@
+# Copyright (C) 2017 imath
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: thaim 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/thaim\n"
+"POT-Creation-Date: 2017-05-15 09:57:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: author.php:27
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:46 entry-single.php:45
+msgid "About %s"
+msgstr ""
+
+#: comments.php:25
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36
+msgid "<span aria-hidden=\"true\" data-icon=\"&#xe0b0;\"></span> Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments <span aria-hidden=\"true\" data-icon=\"&#xe09b;\"></span>"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: email.php:120 includes/functions.php:550
+msgid "Your message:"
+msgstr ""
+
+#: email.php:131 includes/functions.php:550
+msgid "My reply:"
+msgstr ""
+
+#: entry-none.php:13
+msgid "Oops ! nothing there.."
+msgstr ""
+
+#: entry-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: entry-single.php:21 entry.php:28
+msgid "Leave a reply"
+msgstr ""
+
+#: entry-single.php:21 entry.php:28
+msgid "1 Reply"
+msgstr ""
+
+#: entry-single.php:21 entry.php:28
+msgid "% Replies"
+msgstr ""
+
+#: entry-single.php:38 entry.php:45 includes/tags.php:234
+msgid "Edit"
+msgstr ""
+
+#: entry-single.php:49
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:39
+msgid "Proudly Powered by"
+msgstr ""
+
+#: functions.php:118
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:137 includes/maintenance.php:83
+msgid "Thaim requires WordPress %s, please upgrade."
+msgstr ""
+
+#: header.php:47
+msgid "Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: includes/functions.php:23
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Shadows, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: includes/functions.php:30
+msgctxt "Shadows Into Light: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/functions.php:137
+msgid "Widget Area 1"
+msgstr ""
+
+#: includes/functions.php:138
+msgid "Top sidebar area"
+msgstr ""
+
+#: includes/functions.php:148
+msgid "Widget Area 2"
+msgstr ""
+
+#: includes/functions.php:149
+msgid "Bottom sidebar area"
+msgstr ""
+
+#: includes/functions.php:159
+msgid "Home Page Widget"
+msgstr ""
+
+#: includes/functions.php:160
+msgid "Widgetable area of the custom-home-page template."
+msgstr ""
+
+#: includes/functions.php:170
+msgid "Footer Area 1"
+msgstr ""
+
+#: includes/functions.php:171
+msgid "Left footer area"
+msgstr ""
+
+#: includes/functions.php:180
+msgid "Footer Area 2"
+msgstr ""
+
+#: includes/functions.php:181
+msgid "Middle footer area"
+msgstr ""
+
+#: includes/functions.php:190
+msgid "Footer Area 3"
+msgstr ""
+
+#: includes/functions.php:191
+msgid "Right footer area"
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: includes/functions.php:245
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: includes/functions.php:490
+msgid "Questions"
+msgstr ""
+
+#: includes/functions.php:524
+msgid "Reply to your message"
+msgstr ""
+
+#: includes/functions.php:619
+msgid "The reply couldnot be sent"
+msgstr ""
+
+#: includes/functions.php:809
+msgid "<p class=\"description\">Number of downloads: %d</p>"
+msgstr ""
+
+#: includes/functions.php:812
+msgid "View on Github"
+msgstr ""
+
+#: includes/functions.php:814
+msgid "Download"
+msgstr ""
+
+#: includes/functions.php:816
+msgid "Download tag %s"
+msgstr ""
+
+#: includes/maintenance.php:10
+msgid "will be up and running soon !"
+msgstr ""
+
+#: includes/maintenance.php:70
+msgid "Under maintenance"
+msgstr ""
+
+#: includes/options.php:26
+msgid "Put the blog in maintenance mode"
+msgstr ""
+
+#: includes/options.php:40
+msgid "ID of the contact page"
+msgstr ""
+
+#: includes/options.php:63 includes/options.php:64 includes/options.php:114
+msgid "Maintenance mode"
+msgstr ""
+
+#: includes/options.php:80
+msgid "Put the blog in maintenance mode:"
+msgstr ""
+
+#: includes/options.php:81
+msgid "use this option if you want to work on your blog and hide its content to regular users"
+msgstr ""
+
+#: includes/options.php:82
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr ""
+
+#: includes/options.php:88
+msgid "Overview"
+msgstr ""
+
+#: includes/options.php:98
+msgid "Yes"
+msgstr ""
+
+#: includes/options.php:99
+msgid "No"
+msgstr ""
+
+#: includes/tags.php:154
+msgid "View Article"
+msgstr ""
+
+#: includes/tags.php:175
+msgid "Jump to the top of the page"
+msgstr ""
+
+#: includes/tags.php:175
+msgid "Back to top"
+msgstr ""
+
+#: includes/tags.php:202
+msgid "Pingback:"
+msgstr ""
+
+#: includes/tags.php:202
+msgid "(Edit)"
+msgstr ""
+
+#: includes/tags.php:217
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+
+#: includes/tags.php:223
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/tags.php:229
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/tags.php:238
+msgid "Reply"
+msgstr ""
+
+#. Translators: used between list items, there is a space after the comma.
+
+#: includes/tags.php:257 includes/tags.php:260
+msgid ", "
+msgstr ""
+
+#: includes/tags.php:271
+msgid "View all posts by %s"
+msgstr ""
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+
+#: includes/tags.php:277
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: includes/tags.php:279
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: includes/tags.php:281
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: includes/tags.php:392
+msgid "%s Search Results for "
+msgstr ""
+
+#: includes/tags.php:475
+msgid "Home"
+msgstr ""
+
+#: includes/tags.php:509
+msgid "Share"
+msgstr ""
+
+#: includes/tags.php:514
+msgid "buy me a coffee ;)"
+msgstr ""
+
+#: includes/tags.php:514
+msgid "Support"
+msgstr ""
+
+#: includes/tags.php:528
+msgid "blog"
+msgstr ""
+
+#: includes/tags.php:537
+msgid "comment"
+msgstr ""
+
+#: includes/tags.php:540
+msgid "Subscribe to %s feed"
+msgstr ""
+
+#: includes/tags.php:620
+msgid "Thanks a lot for your feedback. Your message was sent successfully. We will reply to it asap."
+msgstr ""
+
+#: includes/tags.php:628
+msgid "Ouch. There was a problem sending the message. Please try again."
+msgstr ""
+
+#: includes/tags.php:673
+msgid "Email used:"
+msgstr ""
+
+#: includes/tax-meta.php:13
+msgid "Icon"
+msgstr ""
+
+#: includes/tax-meta.php:14
+msgid "Choose the css code from available %s."
+msgstr ""
+
+#: includes/tax-meta.php:18
+msgid "Image"
+msgstr ""
+
+#: includes/tax-meta.php:19
+msgid "Insert the url to the image for the term."
+msgstr ""
+
+#: includes/upgrade.php:32
+msgctxt "Upgrader feedback message"
+msgid "Category and tag meta informations - %d item(s) to upgrade"
+msgstr ""
+
+#: includes/upgrade.php:38
+msgctxt "Upgrader feedback message"
+msgid "Stickies for the theme slider - %d item(s) to upgrade"
+msgstr ""
+
+#: includes/upgrade.php:44
+msgctxt "Upgrader feedback message"
+msgid "Snippets in post content - %d item(s) to upgrade"
+msgstr ""
+
+#: includes/upgrade.php:50
+msgctxt "Upgrader feedback message"
+msgid "Migrate imagesliders meta to post thumbnails - %d item(s) to upgrade"
+msgstr ""
+
+#: includes/upgrade.php:56
+msgctxt "Upgrader feedback message"
+msgid "Theme version - %d item to upgrade"
+msgstr ""
+
+#: includes/widgets.php:23
+msgid "A cloud of your most used tags, with the ability to exclude some of your choice."
+msgstr ""
+
+#: includes/widgets.php:24
+msgid "(Thaim) Tag Cloud"
+msgstr ""
+
+#: includes/widgets.php:87
+msgid "Comma separated list of Tag ids to exclude:"
+msgstr ""
+
+#: includes/widgets.php:109
+msgid "Category boxes for your home page."
+msgstr ""
+
+#: includes/widgets.php:110
+msgid "(Thaim) Category boxes"
+msgstr ""
+
+#: includes/widgets.php:199
+msgid "View Articles"
+msgstr ""
+
+#: includes/widgets.php:262
+msgid "Display category descriptions"
+msgstr ""
+
+#: includes/widgets.php:266
+msgid "Display category icons"
+msgstr ""
+
+#: includes/widgets.php:272
+msgid "Comma separated list of Category ids to exclude:"
+msgstr ""
+
+#: questions.php:21
+msgid "How can I help you ?"
+msgstr ""
+
+#: questions.php:22
+msgid "Send your message"
+msgstr ""
+
+#: questions.php:23
+msgid "Please, make sure to avoid adding more than 2 links."
+msgstr ""
+
+#: questions.php:28
+msgid "Message"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "thaim"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://imathi.eu/tag/thaim"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "thaim is imath's theme !"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Custom Home page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar page"
+msgstr ""
